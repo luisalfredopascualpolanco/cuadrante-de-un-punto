@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\cuadrante-de-un-punto\proyecto13.3\proyecto13.3\bin\Debug\proyecto13.3.exe.config
+D:\Programas\Cursos\C# ya\cuadrante-de-un-punto\proyecto13.3\proyecto13.3\bin\Debug\proyecto13.3.exe
+D:\Programas\Cursos\C# ya\cuadrante-de-un-punto\proyecto13.3\proyecto13.3\bin\Debug\proyecto13.3.pdb
+D:\Programas\Cursos\C# ya\cuadrante-de-un-punto\proyecto13.3\proyecto13.3\obj\Debug\proyecto13.3.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\cuadrante-de-un-punto\proyecto13.3\proyecto13.3\obj\Debug\proyecto13.3.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\cuadrante-de-un-punto\proyecto13.3\proyecto13.3\obj\Debug\proyecto13.3.exe
+D:\Programas\Cursos\C# ya\cuadrante-de-un-punto\proyecto13.3\proyecto13.3\obj\Debug\proyecto13.3.pdb
